@@ -1,0 +1,6 @@
+{
+  "id": "d2-ghost",
+  "displayName": "D2 Ghost",
+  "description": "A Destiny 2 Ghost companion: faceted shell plates that open around a glowing eye, reacting to idle, working, reasoning, waiting-on-you and error states.",
+  "spritesheetPath": "spritesheet.webp"
+}
